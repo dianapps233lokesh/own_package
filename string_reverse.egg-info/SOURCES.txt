@@ -1,0 +1,9 @@
+LICENSE
+pyproject.toml
+setup.py
+own_package/__init__.py
+own_package/core.py
+string_reverse.egg-info/PKG-INFO
+string_reverse.egg-info/SOURCES.txt
+string_reverse.egg-info/dependency_links.txt
+string_reverse.egg-info/top_level.txt
