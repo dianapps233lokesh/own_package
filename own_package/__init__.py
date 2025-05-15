@@ -1,1 +1,1 @@
-from .core import core
+from .core import reverse_str

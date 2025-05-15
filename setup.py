@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="jakrta765bgt",
+    name="absnjw456tbh",
     version="0.1.0",
     packages=find_packages(),
     install_requires=[],
